@@ -1,2 +1,2 @@
 # bitree
-create and traversal of an BiTree
+This repository is about some basic option of a binary tree.
